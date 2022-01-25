@@ -1,4 +1,4 @@
-# VERSION CONTROL SYSTEM - MYGIT
+# VERSION CONTROL SYSTEM - MyGit
 
 A Version Control System like Git in C++
 
